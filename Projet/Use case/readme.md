@@ -1,0 +1,5 @@
+#                                   Commentaire du DCU
+                            
+Ce diagramme de cas d'utilisation offre une vue d'ensemble des fonctionnalités clés du système de réservation de résidence, en mettant l'accent sur les deux acteurs principaux : le Locataire et le Gestionnaire. Il couvre les cas d'utilisation essentiels tels que "Réserver un élément d'une résidence", "Payer", "Gérer les disponibilités", "Gérer les tarifs", "Gérer Matériel" etc., ce qui permet de comprendre les interactions principales entre les utilisateurs et le système.
+
+Pour des raisons de lisibilité et d'espace, les cas d'utilisation du Gestionnaire ont été simplifiés, en se concentrant sur les interactions clés comme "Gérer les disponibilités" et "Gérer les tarifs". Les détails supplémentaires, notamment les sous-cas d'utilisation (ajouter, modifier, supprimer) et les interactions complexes, sont approfondis dans les diagrammes de séquence associés.
